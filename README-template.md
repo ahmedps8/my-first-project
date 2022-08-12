@@ -71,7 +71,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ### Useful resources
 
 - [Example resource 1]([https://www.example.com](https://www.youtube.com/c/ElzeroInfo)) - This channel helped me for basically anything.
-- [Example resource 1](https://www.example.com) - This is an amazing tutorial that helped me a lot. I'd recommend it to anyone.
+- [https://www.youtube.com/c/ElzeroInfo]([Youtube]) - This is an amazing tutorial that helped me a lot. I'd recommend it to anyone.
 
 
 ## Author
