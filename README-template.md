@@ -70,7 +70,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Useful resources
 
-- [[Youtube Channel](https://[www.youtube.com/c/ElzeroInfo)]([[https://[www.youtube.com/c/ElzeroInfo]) - This channel helped me for basically anything.
+- [[Youtube Channel](https://[www.youtube.com/c/ElzeroInfo)]) - This channel helped me for basically anything.
 - [Youtube Video]([https://www.youtube.com/watch?v=6806eOGAGqA]) - This is an amazing tutorial that helped me a lot. I'd recommend it to anyone.
 
 
