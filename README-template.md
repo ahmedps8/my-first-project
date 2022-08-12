@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot]([./images/my final work.png](https://github.com/ahmedps8/my-first-project/blob/bbdc2c9c3c4fc1b6ad50293c393bf854be80bb53/images/my%20final%20work.png))
+![Screenshot](my-first-project/images/my final work.png))
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
